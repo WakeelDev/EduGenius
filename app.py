@@ -16,7 +16,7 @@ options = ["Topic Explainer", "Study Plan Generator", "Quiz Generator", "Text Su
 choice = st.sidebar.radio("Choose a feature", options)
 
 # Sidebar: API key input
-st.sidebar.title("🔐 OpenAI API Key")
+st.sidebar.title("OpenAI API Key")
 api_key = st.sidebar.text_input("Enter your OpenAI API key", type="password")
 
 # Load embedding model
