@@ -30,8 +30,10 @@ EduGenius is a Streamlit web application designed to help students grasp difficu
    git clone https://github.com/WakeelDev/edugenius.git
    cd edugenius
    
-🔗 Live Demo
-👉 Try EduGenius on Streamlit
+   ## 🔗 Live Demo
+
+👉 **[Try EduGenius on Streamlit](https://edugenius-wakeeldev.streamlit.app/)**
+
 
 📄 License
 This project is open-source and available under the MIT License.
